@@ -3,5 +3,4 @@ snowflake-snowpark-python
 streamlit
 pandas
 numpy
-snowflake.snowpark.functions
 
