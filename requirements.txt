@@ -1,6 +1,6 @@
 python=3.11.1
-snowflake-snowpark-python=1.39.0
-streamlit=1.48.0
+snowflake-snowpark-python
+streamlit
 pandas
 numpy
 snowflake.snowpark.functions
